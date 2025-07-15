@@ -1,0 +1,12 @@
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\bin\Debug\net8.0\CMS-ClassLibraryDBConnectivity.deps.json
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\bin\Debug\net8.0\CMS-ClassLibraryDBConnectivity.dll
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\bin\Debug\net8.0\CMS-ClassLibraryDBConnectivity.pdb
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.csproj.AssemblyReference.cache
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.AssemblyInfoInputs.cache
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.AssemblyInfo.cs
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.csproj.CoreCompileInputs.cache
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.dll
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\refint\CMS-ClassLibraryDBConnectivity.dll
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.pdb
+D:\vs 2020\Camp-4.2\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\ref\CMS-ClassLibraryDBConnectivity.dll

@@ -1,0 +1,11 @@
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.deps.json
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.dll
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.pdb
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.AssemblyInfoInputs.cache
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.AssemblyInfo.cs
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.csproj.CoreCompileInputs.cache
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.dll
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\refint\ClassLibraryValidation.dll
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.pdb
+D:\vs 2020\Camp-4.2\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ref\ClassLibraryValidation.dll
